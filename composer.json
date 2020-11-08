@@ -1,0 +1,17 @@
+{
+    "name": "victordzul/bicicletav3",
+    "description": "mi negocio web",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Victor89Dzul",
+            "email": "71844596+Victor89Dzul@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^8.12",
+        "illuminate/events": "^8.12",
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.2"
+    }
+}
